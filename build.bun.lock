@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "openagent-plugin-build",
+      "name": "openagent-context7",
       "dependencies": {
         "@modelcontextprotocol/sdk": "1.29.0",
       },
