@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "context7",
-  "version": "0.1.1",
-  "description": "Current library documentation through Context7.",
+  "version": "0.1.2",
+  "description": "Look up library documentation and code examples with Context7 while writing code.",
   "license": "Apache-2.0",
   "homepage": "https://github.com/anthropics/claude-plugins-official/tree/ac996c0dde7fb2a9f805cd5277ffc95ecd44a321/external_plugins/context7",
   "repository": "https://github.com/BANG404/openagent-context7",
@@ -43,14 +43,14 @@
         "default_locale": "en",
         "translations": {
           "en": {
-            "display_name": "context7",
-            "description": "Current library documentation through Context7.",
+            "display_name": "Context7 Docs",
+            "description": "Look up library documentation and code examples with Context7 while writing code.",
             "commands.setup.label": "Setup",
             "commands.setup.description": "Review connection prerequisites"
           },
           "zh": {
-            "display_name": "context7",
-            "description": "通过 Context7 查询最新的库文档。",
+            "display_name": "Context7 文档查询",
+            "description": "编写代码时，通过 Context7 查询软件库文档和代码示例。",
             "commands.setup.label": "配置",
             "commands.setup.description": "查看连接要求"
           }

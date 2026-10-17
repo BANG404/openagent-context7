@@ -1,6 +1,6 @@
-# context7 for OpenAgent
+# Context7 Docs
 
-Current library documentation through Context7.
+Look up library documentation and code examples with Context7 while writing code.
 
 Install the release archive through OpenAgent Integrations → Plugins. This is an independent adaptation.
 
@@ -18,6 +18,6 @@ Bundled tests cover immutable artifacts, config conversion and service configura
 
 ## 中文
 
-通过 Context7 查询最新的库文档。 安装发布包后运行 /context7:setup 查看配置要求。凭据和状态保存在当前 OpenAgent 数据目录的 plugin-data/context7/ 下，修改后刷新插件。
+编写代码时，通过 Context7 查询软件库文档和代码示例。 安装发布包后运行 /context7:setup 查看配置要求。凭据和状态保存在当前 OpenAgent 数据目录的 plugin-data/context7/ 下，修改后刷新插件。
 
 Upstream source and exact revision are recorded in provenance.json. Bundled source remains available for inspection.
